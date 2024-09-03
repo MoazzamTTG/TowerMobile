@@ -1,0 +1,885 @@
+fileFormatVersion: 2
+guid: 54829d0a4f162d449b5b6fd99ef3c5e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7935219779458150220
+    second: HEli NEW 01_0
+  - first:
+      213: 7843604471384277361
+    second: HEli NEW 01_1
+  - first:
+      213: 2360056711974573155
+    second: HEli NEW 01_2
+  - first:
+      213: 3622830754809640911
+    second: HEli NEW 01_3
+  - first:
+      213: -2328061317125479651
+    second: HEli NEW 01_4
+  - first:
+      213: -713148866730719794
+    second: HEli NEW 01_5
+  - first:
+      213: -1792973733327725962
+    second: HEli NEW 01_6
+  - first:
+      213: -5225569315341929948
+    second: HEli NEW 01_7
+  - first:
+      213: -569707896256707637
+    second: HEli NEW 01_8
+  - first:
+      213: 897527804953412381
+    second: HEli NEW 01_9
+  - first:
+      213: -7353538080637594810
+    second: HEli NEW 01_10
+  - first:
+      213: 3861663442070383634
+    second: HEli NEW 01_11
+  - first:
+      213: 4634592659482387957
+    second: HEli NEW 01_12
+  - first:
+      213: -4092599333855683523
+    second: HEli NEW 01_13
+  - first:
+      213: -2633721240268227425
+    second: HEli NEW 01_14
+  - first:
+      213: 7662831345525113125
+    second: HEli NEW 01_15
+  - first:
+      213: -6392218961447597808
+    second: HEli NEW 01_16
+  - first:
+      213: 1277981371225008073
+    second: HEli NEW 01_17
+  - first:
+      213: -7787421607629822066
+    second: HEli NEW 01_18
+  - first:
+      213: 3345218965318442588
+    second: HEli NEW 01_19
+  - first:
+      213: 7080979563079414628
+    second: HEli NEW 01_20
+  - first:
+      213: 8204025275563425389
+    second: HEli NEW 01_21
+  - first:
+      213: -5905838973734696998
+    second: HEli NEW 01_22
+  - first:
+      213: -8934395648769752900
+    second: HEli NEW 01_23
+  - first:
+      213: -6296373170870287751
+    second: HEli NEW 01_24
+  - first:
+      213: -4827524760421436626
+    second: HEli NEW 01_25
+  - first:
+      213: -5691572016443255702
+    second: HEli NEW 01_26
+  - first:
+      213: -2733634105621741
+    second: HEli NEW 01_27
+  - first:
+      213: -8714449762145266494
+    second: HEli NEW 01_28
+  - first:
+      213: -1438599065976816852
+    second: HEli NEW 01_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HEli NEW 01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b05eb637af60e190800000000000000
+      internalID: -7935219779458150220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1718683a5b41adc60800000000000000
+      internalID: 7843604471384277361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364550f431b90c020800000000000000
+      internalID: 2360056711974573155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7f9cd7061e64230800000000000000
+      internalID: 3622830754809640911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d136861119011bfd0800000000000000
+      internalID: -2328061317125479651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_5
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec50b8652e26a16f0800000000000000
+      internalID: -713148866730719794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_6
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a156d93e31e17e0800000000000000
+      internalID: -1792973733327725962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_7
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422fcd9d46c0b77b0800000000000000
+      internalID: -5225569315341929948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc342e1dfadf718f0800000000000000
+      internalID: -569707896256707637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_9
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13c84688c8a47c00800000000000000
+      internalID: 897527804953412381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_10
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d94d831cf2f990800000000000000
+      internalID: -7353538080637594810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_11
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ca7bac072679530800000000000000
+      internalID: 3861663442070383634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_12
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5a41bf771615040800000000000000
+      internalID: 4634592659482387957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_13
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c1881e69a2437c0800000000000000
+      internalID: -4092599333855683523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_14
+      rect:
+        serializedVersion: 2
+        x: 5250
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c396c6c74237bd0800000000000000
+      internalID: -2633721240268227425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_15
+      rect:
+        serializedVersion: 2
+        x: 5625
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521c0c36288d75a60800000000000000
+      internalID: 7662831345525113125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_16
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0194664d8b64a47a0800000000000000
+      internalID: -6392218961447597808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_17
+      rect:
+        serializedVersion: 2
+        x: 6375
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7ee6d394d4cb110800000000000000
+      internalID: 1277981371225008073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_18
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87e501be458de390800000000000000
+      internalID: -7787421607629822066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_19
+      rect:
+        serializedVersion: 2
+        x: 7125
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e94bbdcea9c6e20800000000000000
+      internalID: 3345218965318442588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_20
+      rect:
+        serializedVersion: 2
+        x: 7500
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463362f5561b44260800000000000000
+      internalID: 7080979563079414628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_21
+      rect:
+        serializedVersion: 2
+        x: 7875
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eb846758d8ad170800000000000000
+      internalID: 8204025275563425389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_22
+      rect:
+        serializedVersion: 2
+        x: 8250
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7c2ed6ebe3a0ea0800000000000000
+      internalID: -5905838973734696998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_23
+      rect:
+        serializedVersion: 2
+        x: 8625
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb088407e76a20480800000000000000
+      internalID: -8934395648769752900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_24
+      rect:
+        serializedVersion: 2
+        x: 9000
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9720af0f5f9ce98a0800000000000000
+      internalID: -6296373170870287751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_25
+      rect:
+        serializedVersion: 2
+        x: 9375
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e237da6cecf210db0800000000000000
+      internalID: -4827524760421436626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_26
+      rect:
+        serializedVersion: 2
+        x: 9750
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64985208697301b0800000000000000
+      internalID: -5691572016443255702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_27
+      rect:
+        serializedVersion: 2
+        x: 10125
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313403636c946fff0800000000000000
+      internalID: -2733634105621741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_28
+      rect:
+        serializedVersion: 2
+        x: 10500
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4185acc1e001780800000000000000
+      internalID: -8714449762145266494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEli NEW 01_29
+      rect:
+        serializedVersion: 2
+        x: 10875
+        y: 0
+        width: 375
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b3e3285c1190ce0800000000000000
+      internalID: -1438599065976816852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f69c69ed3d21eab4d8b578274ed9e034
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      HEli NEW 01_23: -8934395648769752900
+      HEli NEW 01_4: -2328061317125479651
+      HEli NEW 01_9: 897527804953412381
+      HEli NEW 01_21: 8204025275563425389
+      HEli NEW 01_2: 2360056711974573155
+      HEli NEW 01_17: 1277981371225008073
+      HEli NEW 01_20: 7080979563079414628
+      HEli NEW 01_5: -713148866730719794
+      HEli NEW 01_12: 4634592659482387957
+      HEli NEW 01_8: -569707896256707637
+      HEli NEW 01_0: -7935219779458150220
+      HEli NEW 01_7: -5225569315341929948
+      HEli NEW 01_13: -4092599333855683523
+      HEli NEW 01_15: 7662831345525113125
+      HEli NEW 01_29: -1438599065976816852
+      HEli NEW 01_3: 3622830754809640911
+      HEli NEW 01_10: -7353538080637594810
+      HEli NEW 01_24: -6296373170870287751
+      HEli NEW 01_25: -4827524760421436626
+      HEli NEW 01_19: 3345218965318442588
+      HEli NEW 01_28: -8714449762145266494
+      HEli NEW 01_6: -1792973733327725962
+      HEli NEW 01_11: 3861663442070383634
+      HEli NEW 01_26: -5691572016443255702
+      HEli NEW 01_18: -7787421607629822066
+      HEli NEW 01_22: -5905838973734696998
+      HEli NEW 01_27: -2733634105621741
+      HEli NEW 01_1: 7843604471384277361
+      HEli NEW 01_14: -2633721240268227425
+      HEli NEW 01_16: -6392218961447597808
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

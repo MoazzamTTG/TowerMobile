@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | {{{ PRODUCT_NAME }}}</title>
+  </head>
+  <body  style="text-align: center; padding: 0; margin: 0; display: flex; align-items: center; justify-content: center; height: 100vh;">
+    <div id="unityContainer"></div>
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+        createUnityInstance(document.querySelector("#unityContainer"), {
+            dataUrl: "Build/Build.data",
+            frameworkUrl: "Build/Build.framework.js",
+            codeUrl: "Build/Build.wasm",
+            streamingAssetsUrl: "StreamingAssets",
+            companyName: "YourCompany",
+            productName: "YourProduct",
+            productVersion: "1.0",
+        });
+    </script>
+  </body>
+</html>
